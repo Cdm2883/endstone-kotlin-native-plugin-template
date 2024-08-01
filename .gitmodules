@@ -1,0 +1,6 @@
+[submodule "endstone"]
+	path = endstone
+	url = https://github.com/EndstoneMC/endstone
+[submodule "kplusplus"]
+	path = kplusplus
+	url = https://github.com/Monkopedia/kplusplus

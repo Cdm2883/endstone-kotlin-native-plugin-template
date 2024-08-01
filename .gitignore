@@ -40,3 +40,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Kotlin Endstone ###
+./plugin/src/nativeInterop/cinterop/endstone.def
